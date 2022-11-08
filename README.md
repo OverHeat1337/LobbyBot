@@ -1,0 +1,2 @@
+# LobbyBot
+Fortnite Lobbybot
